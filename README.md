@@ -13,6 +13,12 @@ Technologies used in application and required to be installed before running the
 
 Implantation of application in new host:
 
+    1. Download backend Django code from:
+       https://github.com/svsrus/scopic-auction-backend.git
+
+    2. Download frontend Angular code from:
+       https://github.com/svsrus/scopic-auction-frontend.git
+
     1. Create a virtual environment if needed.
 
     2. Download project dependencies with the following command:

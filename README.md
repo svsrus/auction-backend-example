@@ -1,6 +1,16 @@
-Scopic Auction Test application made by Sergei Shurpenkov.
+Auction Example application made by Sergei Shurpenkov.
 
-Application covers 100% of functionality that was specified in the requirements document.
+Has following features:
+    - Home page with paginated auction items list
+    - Ordering feature of items list
+    - Search feature of items list
+    - Login page
+    - Administrator page
+    - User page
+    - User automatic bidding configuration
+    - Create new item page
+    - Details of item page with manual o automatic bidding
+    - User lanched background threads for automatic bidding
 
 Technologies used in application and required to be installed before running the application:
     - Python v3.7
@@ -9,15 +19,13 @@ Technologies used in application and required to be installed before running the
     - Angular v12.2.4
     - PostgresSQL
 
-
-
 Implantation of application in new host:
 
     1. Download backend Django code from:
-       https://github.com/svsrus/scopic-auction-backend.git
+       https://github.com/svsrus/auction-backend-example.git
 
     2. Download frontend Angular code from:
-       https://github.com/svsrus/scopic-auction-frontend.git
+       https://github.com/svsrus/auction-frontend-example.git
 
     3. Create a virtual environment if needed.
 

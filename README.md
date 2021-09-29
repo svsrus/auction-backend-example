@@ -11,6 +11,8 @@ Has following features:
     - Create new item page
     - Details of item page with manual o automatic bidding
     - User lanched background threads for automatic bidding
+    - Frontend side validations of input data
+    - Backend side validations of input data
 
 Technologies used in application and required to be installed before running the application:
     - Python v3.7
